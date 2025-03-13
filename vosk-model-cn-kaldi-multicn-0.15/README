@@ -1,0 +1,7 @@
+Wideband multi-cn model from Kaldi project with Vosk LM
+
+Thanks to Xingyu Na (https://github.com/naxingyu)
+
+%WER 17.44 [ 8992 / 51551, 255 ins, 2554 del, 6183 sub ] exp/chain/tdnn/decode_test_speechio_02_rescore/cer_10_0.0
+%WER 29.72 [ 7822 / 26318, 405 ins, 1083 del, 6334 sub ] exp/chain/tdnn/decode_test_speechio_06_rescore/cer_11_0.0
+%WER 9.56 [ 7754 / 81139, 143 ins, 217 del, 7394 sub ] exp/chain/tdnn/decode_test_thchs_rescore/cer_9_0.0
